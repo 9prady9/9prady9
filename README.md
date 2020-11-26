@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 Currently working on ... improving my personal website from static css+html to react based one
-- 🌱 Currently learning ... Aligning my EQ mount telescope with Polaris axis
+- 🌱 Currently working on
+    - Improving my personal website
+    - Port/Fix my old school projects to latest tools/toolchains
+- 🔭 Currently learning
+    - I seem to do telescope alignment fine but I still need to perfect it a bit.
+    - How to spot things other than moon using my telescope!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
