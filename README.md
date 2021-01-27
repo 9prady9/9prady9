@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-- 🌱 Currently working on
+- 🌱 On-Off Activities
     - Improving my personal website
     - Port/Fix my old school projects to latest tools/toolchains
-- 🔭 Currently learning
-    - I seem to do telescope alignment fine but I still need to perfect it a bit.
-    - How to spot things other than moon using my telescope!
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
--->
-- ⚡ Fun fact: ... it is not fun to do chores ;)
+    - Viewing Moon using my new Telescope and just feel good about those close up views :)
+
+- 🔭 
+Finally got my first close up moon shot
+<img src="./MyMoonShot.jpeg" width=409px height=273px/>
+
